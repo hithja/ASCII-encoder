@@ -1,11 +1,11 @@
 /** 
 * Encoder and decode from ASCII to HEX code
-* by neon68
+* by hithja
 **/
 const codes = require('./codes.json');
 
 //* Source string, array of symbols from string and encoded/decoded string
-let str = "Hello, World! This code was wrote by neon68 (aka neon68dev)";
+let str = "Hello, World! This code was wrote by hithja";
 let sym_arr = [];
 let code_str = [];
 
